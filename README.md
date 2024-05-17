@@ -6,7 +6,7 @@ Description:
 This project consists of an HTML file representing my portfolio. It showcases my personal information, education, work experience, skills, and projects. The portfolio provides a brief overview of my background, including my professional journey, educational qualifications, skills, and notable projects.
 
 File Contents:
-index.html: an HTML file containing the structure and content of my portfolio.
+Introduction Page.html: an HTML file containing the structure and content of my portfolio.
 
 Sections:
 1. Personal Information: This includes my name, contact information, and a brief introduction.
